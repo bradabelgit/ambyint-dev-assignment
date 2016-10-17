@@ -1,6 +1,6 @@
 ## Ambyint Developer Assignment 
 
-Developed with Node v4.6.0 <br/>
+Developed with Node v6.8.1 <br/>
 
 #### Dev Assignment
 
@@ -17,9 +17,11 @@ https://developers.google.com/maps/documentation/geocoding/
 
 #### Run Program 
 
-1) npm install <br />
-2) npm start 
+```
+1) npm install
+2) npm start
+```
 
 #### Run Tests 
 
-1) npm test
+`1) npm test`

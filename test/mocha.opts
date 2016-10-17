@@ -2,4 +2,3 @@
 --recursive
 --reporter spec
 --timeout 30000
---compilers js:babel-register
