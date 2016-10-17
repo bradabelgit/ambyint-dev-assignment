@@ -1,10 +1,10 @@
 ## Ambyint Developer Assignment 
 
-To run the program: 
+#### Run Program 
 
-1) npm install 
+1) npm install <br />
 2) npm start 
 
-To run tests: 
+#### Run Tests 
 
 1) npm test
